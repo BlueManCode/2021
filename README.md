@@ -1,7 +1,7 @@
-## 2021
+# 2021
 
-# Plan's
+## Plan's
 
-# Ideas
+## Ideas
 
 - personal blog sites with Auth
