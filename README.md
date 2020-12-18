@@ -4,4 +4,9 @@
 
 ## Ideas
 
-- personal blog sites with Auth
+[] personal portfolio with blog (react - webpage)
+[] personal productivity app (electron - windows)
+[] M.A.L clone (react - webpage)
+[] M.A.L clone mobile (react native - android)
+[] productivity RPG Game (react - webpage)
+[] pathfinder application (react - webpage)
