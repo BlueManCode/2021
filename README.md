@@ -12,3 +12,4 @@
 - [ ] M.A.L clone mobile (react native - android)
 - [ ] productivity RPG Game (react - webpage)
 - [ ] pathfinder application (react - webpage)
+- [ ] AI/ML Hands free browsing, gesture controlled (tensorflow)
